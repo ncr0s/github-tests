@@ -1,6 +1,4 @@
-.gitignore
 .idea
 *gradle
 build
-gradlew*
 out

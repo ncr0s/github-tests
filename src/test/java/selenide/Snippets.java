@@ -134,7 +134,6 @@ public class Snippets {
 
         $("").shouldHave(value("42"));
         $("").shouldHave(exactValue("42"));
-        $("").shouldBe(empty);
 
         $("").shouldHave(attribute("disabled"));
         $("").shouldHave(attribute("name", "value"));
